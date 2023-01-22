@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/comp426-2023-spring/a01-vidyuthj#readme",
   "dependencies": {
+    "fs": "^0.0.1-security",
     "minimist": "^1.2.7"
   }
 }
