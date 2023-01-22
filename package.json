@@ -2,7 +2,7 @@
   "name": "comp-server",
   "version": "1.0.0",
   "description": "This a simple web server",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "node server.js --port=5555"
   },
